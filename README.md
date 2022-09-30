@@ -20,7 +20,7 @@ La idea general es crear una aplicación en la cual se puedan ver los distintos 
 
   - Buscar personajes --> searchBar
   - Filtrarlos / Ordenarlos --> Paginado y Filtros
-  - Crear nuevos pokemons --> Create Button
+  - Crear nuevos personajes de la serie --> Create Button
       nota:
     para el CREATE redirección a --> https://www.avatarz.top/generator
 
